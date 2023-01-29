@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/392.d7d77381.chunk.js","mappings":"qIAQA,UANA,WACE,OACE,yBAAK,UAET,C","sources":["Pages/SignUp.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nfunction SignUp() {\r\n  return (\r\n    <div>SignUp</div>\r\n  )\r\n}\r\n\r\nexport default SignUp"],"names":[],"sourceRoot":""}
